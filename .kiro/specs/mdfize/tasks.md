@@ -1,6 +1,6 @@
 # Implementation Plan
 
-<!-- Created by Kiro -->
+_Created by Kiro_
 
 - [ ] 1. Set up build system and MDF integration foundation
 

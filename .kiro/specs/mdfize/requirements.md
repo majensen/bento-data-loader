@@ -1,5 +1,6 @@
 # Requirements Document
-<!-- Created by Kiro -->
+
+*Created by Kiro*
 
 ## Introduction
 

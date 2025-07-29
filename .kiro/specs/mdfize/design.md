@@ -1,5 +1,6 @@
 # Design Document
-<!-- Created by Kiro -->
+
+*Created by Kiro*
 
 ## Overview
 
